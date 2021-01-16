@@ -1,7 +1,7 @@
 # Trillo
 
 Trillo is a site I developed in less than a day to master `CSS flexbox`.  
-It includes animations, CSS masks, an SVG stripe, and many techniques to create a beautiful flex layout.   
+It includes CSS vars, CSS masks, an SVG stripe, and many techniques to create a beautiful flex layout.   
 Moreover, the site includes media queries to make it responsive.
 
 Enjoy navigating the code :octocat:
