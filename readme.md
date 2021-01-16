@@ -1,10 +1,8 @@
 # Trillo
-<hr>
 
-Trillo is a site I developed in less than a day in order to master `css flexbox`.  
-It includes animations, css masks, svg stripe, and many techniques to  
-create a beautiful layout using flexbox.   
-Moreover, the side includes media queries to make it responsive.  
+Trillo is a site I developed in less than a day to master `CSS flexbox`.  
+It includes animations, CSS masks, an SVG stripe, and many techniques to create a beautiful flex layout.   
+Moreover, the site includes media queries to make it responsive.
 
 Enjoy navigating the code :octocat:
 
