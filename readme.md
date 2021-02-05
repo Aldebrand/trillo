@@ -1,6 +1,6 @@
 # Trillo
 
-Trillo is a site I developed in less than a day to master `CSS flexbox`.  
+Trillo is a site I developed in less than a day in order to master `CSS flexbox`.  
 It includes CSS vars, CSS masks, an SVG stripe, and many techniques to create a beautiful flex layout.   
 Moreover, the site contains some media queries that make it very responsive.
 
